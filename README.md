@@ -2,8 +2,6 @@
 A data-driven dashboard for analyzing road accident patterns and risk factors including severity, weather, time, and location. Enables stakeholders to gain actionable insights for improving road safety through targeted interventions and resource prioritization.
 
 
-Here is a proper README format for the Accident Analysis Dashboard project using tools like Excel, SQL, Power BI, and Tableau, with step-by-step structure:
-
 ***
 
 # Accident Analysis Dashboard

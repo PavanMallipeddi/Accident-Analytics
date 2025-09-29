@@ -5,7 +5,6 @@ A data-driven dashboard for analyzing road accident patterns and risk factors in
 ***
 
 # Accident Analysis Dashboard
-<img width="1825" height="796" alt="image" src="https://github.com/user-attachments/assets/51187eb0-6969-4ee9-ba03-ddebf69683d5" />
 
 ## Project Overview
 A comprehensive dashboard project analyzing road accident data using multiple tools such as Excel for data cleaning, SQL for data querying, Power BI and Tableau for interactive visualization. The dashboard offers actionable insights into accident severity, weather, lighting, and location to support data-driven safety interventions.

@@ -72,5 +72,3 @@ This project analyzes large-scale road accident datasets to uncover patterns and
 - Integrate more granular vehicle and driver behavior data.
 - Incorporate predictive analytics for risk forecasting.
 
-## Contact
-For queries or collaboration, contact [Pavankumar, mallipeddipavan123@gmail.com].
